@@ -2,6 +2,8 @@
 
 A single Arduino sketch that turns one hand-built robot car into **four robots**. Flip one line of code, re-upload, and the same chassis behaves as an obstacle avoider, a line follower, a line follower that dodges obstacles, or a car that follows your hand.
 
+<img width="788" height="578" alt="image" src="https://github.com/user-attachments/assets/cadfc3af-1d9d-4984-860e-8621f8b02352" />
+
 
 
 ## Modes
