@@ -32,7 +32,7 @@ Replace the value with any of:
 
 - Arduino Uno / Nano (ATmega328P)
 - L298N motor driver (or similar dual H-bridge)
-- 2 × DC gear motors + wheels (differential drive)
+- 4 × DC gear motors + wheels (differential drive — left pair and right pair driven together)
 - HC-SR04 ultrasonic sensor
 - SG90 servo (pans the ultrasonic sensor)
 - 4 × IR sensors — 2 mounted underneath (line following), 2 mounted on top/front (object following)
