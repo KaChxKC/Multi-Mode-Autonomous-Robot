@@ -1,0 +1,17 @@
+# This repository contains source code and the README only.
+# Everything is ignored by default; the files below are explicitly allowed.
+*
+
+!.gitignore
+!README.md
+
+!robot_car_uno/
+!robot_car_uno/robot_car_uno.ino
+
+!robot_car_esp32_gateway/
+!robot_car_esp32_gateway/robot_car_esp32_gateway.ino
+!robot_car_esp32_gateway/arduino_secrets.example.h
+
+# Never commit real credentials (Blynk token / WiFi password)
+arduino_secrets.h
+**/arduino_secrets.h
